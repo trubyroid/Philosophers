@@ -1,5 +1,5 @@
-SCHOOL 21 PROJECT
-
+PHILOSOPHERS
+============
 Implementation of the problem about 5 philosophers, using multithreading.
 
 The compilation was performed as follows: gcc -Wall -Wextra -Werror.
