@@ -1,6 +1,6 @@
 PHILOSOPHERS
 ============
-Implementation of the problem about 5 philosophers, using multithreading.
+Implementation of the problem of dining philosophers. Solves the deadlock issue, using multithreading.
 
 The compilation was performed as follows: gcc -Wall -Wextra -Werror.
 
